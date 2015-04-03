@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Mirrors</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Mirrors</string>
+    <string name="nGame">New Game</string>
+    <string name="hScore">High Scores</string>
+    <string name="resume">Resume Game</string>
+    <string name="exit">Exit</string>
+    <string name="todo">TODO</string>
+
+</resources>
